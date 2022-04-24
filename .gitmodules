@@ -1,0 +1,9 @@
+[submodule "flook-mobile-app"]
+	path = flook-mobile-app
+	url = https://github.com/fishryanie/flook-mobile-app.git
+[submodule "flook-server-app"]
+	path = flook-server-app
+	url = https://github.com/fishryanie/flook-server-app.git
+[submodule "flook-web-app"]
+	path = flook-web-app
+	url = https://github.com/fishryanie/flook-web-app.git

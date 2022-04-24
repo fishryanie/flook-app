@@ -1,0 +1,33 @@
+# GET http://localhost:8000 HTTP/1.1
+
+### FIND ALL BOOK
+GET http://localhost:8000/api/book-management/getBook
+
+### FIND BOOK BY GENRE
+GET http://localhost:8000/api/book-management/getBookByGenre?genreId=6228b892104a1e7415ab4973
+
+### FIND BOOK BY AUTHOR
+GET http://localhost:8000/api/book-management/getBookByAuthor?authorName=Vũ Cát Tường
+
+### DELETE BOOK BY ID
+DELETE  http://localhost:8000/api/book-management/deleteBookById/622af2a1193d32998135a30b
+Authorization: 
+Content-Type: application/json
+Accept: application/json
+
+### ADD BOOK
+POST  http://localhost:8000/api/book-management/addBook HTTP/1.1
+Authorization: 
+Content-Type: application/json
+Accept: application/json
+
+{
+  "title": "ABC",
+  "image": "",
+  "author": "Vũ Cát Tường",
+  "price": 100000,
+  "genre": "Kinh Dị",
+  "status": true,
+  "description": ""
+}
+

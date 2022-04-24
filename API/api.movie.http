@@ -1,0 +1,91 @@
+### FIND ALL MOVIE
+GET http://localhost:8000/api/movie-management/getMovie
+
+
+### FIND MOVIE BY ID
+GET http://localhost:8000/api/movie-management/getMovie?id=61927578bbc196473ef8dc9e
+
+
+### FIND ALL MOVIE PAGINATION
+GET http://localhost:8000/api/movie-management/getMovie?page=2
+
+ 
+### FIND MOVIE COMMING SOON PAGINATION
+GET http://localhost:8000/api/movie-management/getMovie?commingSoon=true&&page=2
+
+
+### FIND MOVIE IS PLAYING PAGINATION
+GET http://localhost:8000/api/movie-management/getMovie?isPlaying=true&&page=2
+
+
+### FIND MOVIE NEW PAGINATION
+GET http://localhost:8000/api/movie-management/getMovie?new=true&&page=1
+
+
+### ADD MOVIE
+POST http://localhost:8000/api/movie-management/addMovie HTTP/1.1
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxZDJlYzhhOTcxNTUyN2ExZjYzNzkwMiIsImlhdCI6MTY0NjkwNDM3MiwiZXhwIjoxNjQ2OTA3OTcyfQ.ynkC4D9BZd-FCKWZdzuL6P5UMCKKPKyRkw8Ttfd71b0
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name" : "Ted222",
+  "trailer" : "https://www.youtube.com/watch?v=S3AVcCggRnU",
+  "images": {
+    "image": "",
+    "background": "",
+    "otherImages": [
+
+    ]
+  },
+  "discription" : "Chú Gấu Ted 2 kể về một cậu bé tên John đã ước một điều ước vào sinh n...",
+  "premiere" : "2019-07-29T00:00:00",
+  "genre" : "Hài hước, Tâm lý",
+  "durations" : "115 phút"
+}
+
+### DELETE MOVIE
+DELETE http://localhost:8000/api/movie-management/deleteMovie/61cab6874b99ce961253bf45 HTTP/1.1
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxY2FiMTY2ZWNlMWUyMWE1YjViNTBhYSIsImlhdCI6MTY0MDY3NTA3MSwiZXhwIjoxNjQwNjc4NjcxfQ.R70DG7AZ3dwjJisrYdd3e2VTT1jOZ4h_ydhfxt3om7Y
+Content-Type: application/json
+Accept: application/json
+
+### UPDATE MOVIE
+PUT http://localhost:8000/api/movie-management/updateMovie?id=61cabbecd758681bcc700eee HTTP/1.1
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxY2FiYmMwZDc1ODY4MWJjYzcwMGU3NiIsImlhdCI6MTY0MDY3NjMxNiwiZXhwIjoxNjQwNjc5OTE2fQ.HMa9HYprrYy6DAnn59uB6v7rLHJeyD1PocRtuDVHbuo
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name" : "Ted222",
+  "trailer" : "https://www.youtube.com/watch?v=S3AVcCggRnU",
+  "images": {
+    "image": "",
+    "background": "",
+    "otherImages": [
+
+    ]
+  },
+  "discription" : "Chú Gấu Ted 2 kể về một cậu bé tên John đã ước một điều ước vào sinh n...",
+  "premiere" : "2019-07-29T00:00:00",
+  "genre" : "Hài hước, Tâm lý",
+  "durations" : "115 phút"
+}
+
+
+### FIND LIST MOVIDE FAVIORITE BY USER ID
+// Function needs user id is logining
+// Add token's user islogin to header
+GET http://localhost:8000/api/movie-management/listFavoriteByUserId HTTP/1.1
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxYTczMDhkZTJkOThjZGMwNWUyMzRmMyIsImlhdCI6MTYzOTU0NzI5NiwiZXhwIjozNjAwMTYzOTU0NzI5Nn0.6BC9-l-qUPTr9WqP6U0mxNoBhqBenFHxeIt9y_Rk0Hs
+Content-Type: application/json
+Accept: application/json
+
+
+### DELETE ALL MOVIE
+// Function needs authority moderator
+// Add token's moderator into header
+DELETE http://localhost:8000/api/movie-management/deleteAllMovie HTTP/1.1
+Authorization: 
+Content-Type: application/json
+Accept: application/json

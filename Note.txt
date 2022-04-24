@@ -1,0 +1,38 @@
+
+/**
+*  Email git:
+**/ 
+Link : https://github.com/Ryanie217/Flex-Ticket.git
+Hoàng Anh Tú: tuhoang.121299@gmail.com
+Phan Hồng Quân: qphanquan1998@gmail.com
+Trần Phước Sanh: phuocsanhtps@gmail.com
+Huỳnh Tấn Thành: ysaysa0123@gmail.com
+Lê Cao Anh Kiệt: Anhkietle90@gmail.com
+
+
+
+
+/**
+* Using Cloudnary for save image of system
+**/
+Link: https://cloudinary.com/
+userName: qphanquan1998@gmail.com
+password: Quan1998@
+
+
+
+
+/**
+* Using Mongodb Atlat
+**/
+Link : https://account.mongodb.com/account/login?_ga=2.112686148.1758177164.1640511624-1060325927.1636459462
+userName: qphanquan1998@gmail.com
+password: 2171998Ryanphan 
+
+
+
+
+Link deploy web: http://flexmovie.surge.sh/
+Link deploy webServer: ...
+sdk - android app: ...
+

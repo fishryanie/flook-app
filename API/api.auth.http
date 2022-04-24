@@ -1,0 +1,106 @@
+GET http://localhost:8000 HTTP/1.1
+
+
+// AUTH
+### FIND LIST USER BY PERMISSION
+GET http://localhost:8000/api/user-management/getAllListUser
+Content-Type: application/json
+Accept: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxYTczMDhkZTJkOThjZGMwNWUyMzRmMyIsImlhdCI6MTYzOTU0NzI5NiwiZXhwIjozNjAwMTYzOTU0NzI5Nn0.6BC9-l-qUPTr9WqP6U0mxNoBhqBenFHxeIt9y_Rk0Hs
+
+### FIND USER BY ID
+GET http://localhost:8000/api/user-management/getUserById/61914fe0bbc196473e515be HTTP/1.1
+
+
+### FIND USER NOT ACTIVE
+GET http://localhost:8000/api/user-management/findUsersNotActive HTTP/1.1
+Content-Type: application/json
+Accept: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxYTczNGQ2NjA1ZGZiMTc1YWJjMmQwMiIsImlhdCI6MTYzOTgxMjE1OSwiZXhwIjozNjAwMTYzOTgxMjE1OX0.v9BkqHGVwAdSswSRv3RRpRkTp53C7JYKyJ-rEtyKHFI
+
+
+
+### LOGIN APP
+POST http://localhost:8000/api/user-management/login HTTP/1.1
+Content-Type: application/json
+Accept:  application/json
+
+{
+  //admin
+  
+  //"userName":"admin123456",
+  //"password":"Admin123456@",
+  
+     "userName":"moderator123456",
+    "password":"Moderator123456@",
+
+  "userName":"moderator123456",
+  "password":"Moderator123456@",
+  
+  // user
+
+  //"userName": "tututu123",
+  //"password": "Tu@123456",
+  "type":"LOGIN_APP"
+}
+
+### SIGN UP
+POST http://localhost:8000/api/user-management/signup HTTP/1.1
+Content-Type: application/json
+Accept: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxZDJlYzhhOTcxNTUyN2ExZjYzNzkwMiIsImlhdCI6MTY0MTI4MjkzMSwiZXhwIjoxNjQxMjg2NTMxfQ.IsKVSp3jAFtggwM3DCuQEYlrzNQg4UixwjbxMnj5Hvk
+
+{
+  "userName":"tututu123",
+  "password":"Tu@123456",
+  "email": "tuhoang123@gmail.com",
+  "gender": true,
+  "status": "1",
+  "roles": "user",
+  "avatar": "",
+  "isActive": true,
+  "displayName": "anhtu123",
+  "phoneNumber": "0967622351",
+  "action": "USER",
+  "type": "CREATE_APP"
+}
+
+### REGISTER APP
+POST http://localhost:8000/api/user-management/register HTTP/1.1
+Content-Type: application/json
+Accept: application/json
+
+{
+  "userName":"tututu123",
+  "phoneNumber":"0967622351",
+  "password":"Tu@123456",
+  "passwordComfirm":"Tu@123456",
+  "email":"tuhoang123@gmail.com",
+  "type": "CREATE_APP"
+}
+
+### CHANGE PASSWORD
+PUT http://localhost:8000/api/user-management/changePassword HTTP/1.1
+Content-Type: application/json
+Accept: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxYTczNGQ2NjA1ZGZiMTc1YWJjMmQwMiIsImlhdCI6MTYzOTgxMjE1OSwiZXhwIjozNjAwMTYzOTgxMjE1OX0.v9BkqHGVwAdSswSRv3RRpRkTp53C7JYKyJ-rEtyKHFI
+
+{
+  "password":"Lcak12345@",
+  "passwordNew":"Lcak123456@"
+}
+
+### FORGOT PASSWORD
+PUT http://localhost:8000/api/user-management/forgotPassword HTTP/1.1
+Content-Type: application/json
+Accept: application/json
+
+{
+  "email":"ysaysa0123@gmail.com"
+}
+
+### ACTIVE USER
+GET http://localhost:8000/api/user-management/setActiveUser/619fd6f774e7670dcc5f7506 HTTP/1.1
+
+
+
