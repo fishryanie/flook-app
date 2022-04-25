@@ -1,0 +1,140 @@
+[
+    {
+        "_id": {
+            "$oid": "625d24e4ed0d5ec948bef900"
+        },
+        "name": "Action"
+    },
+    {
+        "_id": {
+            "$oid": "625d261ded0d5ec948bfeebc"
+        },
+        "name": "Drama"
+    },
+    {
+        "_id": {
+            "$oid": "625d261ded0d5ec948bfeebd"
+        },
+        "name": "Manhwa"
+    },
+    {
+        "_id": {
+            "$oid": "625d261ded0d5ec948bfeebe"
+        },
+        "name": "Sports"
+    },
+    {
+        "_id": {
+            "$oid": "625d261ded0d5ec948bfeebf"
+        },
+        "name": "Truyện Màu"
+    },
+    {
+        "_id": {
+            "$oid": "625d2c14ed0d5ec948c49bf2"
+        },
+        "name": "Adventure"
+    },
+    {
+        "_id": {
+            "$oid": "625d2c14ed0d5ec948c49bf3"
+        },
+        "name": "Fantasy"
+    },
+    {
+        "_id": {
+            "$oid": "625d2c14ed0d5ec948c49bf4"
+        },
+        "name": "Manga"
+    },
+    {
+        "_id": {
+            "$oid": "625d3064ed0d5ec948c80dbe"
+        },
+        "name": "Manhua"
+    },
+    {
+        "_id": {
+            "$oid": "625d3064ed0d5ec948c80dbf"
+        },
+        "name": "Mystery"
+    },
+    {
+        "_id": {
+            "$oid": "625d3064ed0d5ec948c80dc0"
+        },
+        "name": "Shounen"
+    },
+    {
+        "_id": {
+            "$oid": "625d32bf7408e2e85fe98a1b"
+        },
+        "name": "Comedy"
+    },
+    {
+        "_id": {
+            "$oid": "625d3d177408e2e85fe98a1e"
+        },
+        "name": "Supernatural"
+    },
+    {
+        "_id": {
+            "$oid": "625d43457408e2e85fe98a21"
+        },
+        "name": "Webtoon"
+    },
+    {
+        "_id": {
+            "$oid": "625d66de7408e2e85fe98a23"
+        },
+        "name": "Chuyển Sinh"
+    },
+    {
+        "_id": {
+            "$oid": "625d67ef7408e2e85fe98a24"
+        },
+        "name": "Harem"
+    },
+    {
+        "_id": {
+            "$oid": "625d6a617408e2e85fe98a25"
+        },
+        "name": "Horror"
+    },
+    {
+        "_id": {
+            "$oid": "625d6ae87408e2e85fe98a27"
+        },
+        "name": "Martial Arts"
+    },
+    {
+        "_id": {
+            "$oid": "625d6bba7408e2e85fe98a29"
+        },
+        "name": "Seinen"
+    },
+    {
+        "_id": {
+            "$oid": "625d6db17408e2e85fe98a2a"
+        },
+        "name": "Xuyên Không"
+    },
+    {
+        "_id": {
+            "$oid": "625da9087408e2e85fe98a2b"
+        },
+        "name": "Romance"
+    },
+    {
+        "_id": {
+            "$oid": "625dae9e7408e2e85fe98a2c"
+        },
+        "name": "Psychological"
+    },
+    {
+        "_id": {
+            "$oid": "625daebe7408e2e85fe98a2d"
+        },
+        "name": "School Life"
+    }
+]

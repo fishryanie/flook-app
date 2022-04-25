@@ -4,10 +4,164 @@
     "tenHeThongRap": "BHD Star Cineplex",
     "logo": "https://static.ybox.vn/2018/11/2/1542700552909-1542502152064-1538538378012-1536099918843-1534395210775-1530455476951-1528458709686-51b09f0e-4675-11e8-85e1-cac091044fd5.png",
     "cumRapChieu": [
-      { "maCumRap": "bhd-star-cineplex-3-2" },
-      { "maCumRap": "bhd-star-cineplex-gv" },
-      { "maCumRap": "bhd-star-cineplex-3-2" }
+      {
+        "maCumRap": "bhd-star-cineplex-3-2",
+        "tenCumRap": "BHD Star Cineplex - 3/2",
+        "hinhAnh": null,
+        "lichChieuPhim": [
+          {
+            "maLichChieu": "45037",
+            "maRap": "453",
+            "tenRap": "Rạp 3",
+            "ngayChieuGioChieu": "2019-01-01T10:00:00",
+            "giaVe": 90000,
+            "thoiLuong": 120
+          },
+          {
+            "maLichChieu": "45037",
+            "maRap": "453",
+            "tenRap": "Rạp 3",
+            "ngayChieuGioChieu": "2019-01-01T10:00:00",
+            "giaVe": 90000,
+            "thoiLuong": 120
+          },
+          {
+            "maLichChieu": "45037",
+            "maRap": "453",
+            "tenRap": "Rạp 3",
+            "ngayChieuGioChieu": "2019-01-01T10:00:00",
+            "giaVe": 90000,
+            "thoiLuong": 120
+          },
+          {
+            "maLichChieu": "45037",
+            "maRap": "453",
+            "tenRap": "Rạp 3",
+            "ngayChieuGioChieu": "2019-01-01T10:00:00",
+            "giaVe": 90000,
+            "thoiLuong": 120
+          },
+          {
+            "maLichChieu": "45037",
+            "maRap": "453",
+            "tenRap": "Rạp 3",
+            "ngayChieuGioChieu": "2019-01-01T10:00:00",
+            "giaVe": 90000,
+            "thoiLuong": 120
+          },
+          {
+            "maLichChieu": "45037",
+            "maRap": "453",
+            "tenRap": "Rạp 3",
+            "ngayChieuGioChieu": "2019-01-01T10:00:00",
+            "giaVe": 90000,
+            "thoiLuong": 120
+          }
+        ]
+      },
+      {
+          "lichChieuPhim": [
+            {
+              "maLichChieu": "45037",
+              "maRap": "453",
+              "tenRap": "Rạp 3",
+              "ngayChieuGioChieu": "2019-01-01T10:00:00",
+              "giaVe": 90000,
+              "thoiLuong": 120
+            }
+          ],
+          "maCumRap": "bhd-star-cineplex-3-2",
+          "tenCumRap": "BHD Star Cineplex - 5/2",
+          "hinhAnh": null
+      }
     ]
-  }
-  
+  },
+  {
+      "cumRapChieu": [
+        {
+          "lichChieuPhim": [
+            {
+              "maLichChieu": "45037",
+              "maRap": "453",
+              "tenRap": "Rạp 3",
+              "ngayChieuGioChieu": "2019-01-01T10:00:00",
+              "giaVe": 90000,
+              "thoiLuong": 120
+            }
+          ],
+          "maCumRap": "bhd-star-cineplex-3-2",
+          "tenCumRap": "Cinemax 3/2",
+          "hinhAnh": null
+        }
+      ],
+      "maHeThongRap": "BHDStar",
+      "tenHeThongRap": "Cinemax",
+      "logo": "https://cinemaxvp.vn/themes/ramestar/images/logo.png"
+    },
+    {
+      "cumRapChieu": [
+        {
+          "lichChieuPhim": [
+            {
+              "maLichChieu": "45037",
+              "maRap": "453",
+              "tenRap": "Rạp 3",
+              "ngayChieuGioChieu": "2019-01-01T10:00:00",
+              "giaVe": 90000,
+              "thoiLuong": 120
+            }
+          ],
+          "maCumRap": "bhd-star-cineplex-3-2",
+          "tenCumRap": "Cinemax 3/2",
+          "hinhAnh": null
+        }
+      ],
+      "maHeThongRap": "BHDStar",
+      "tenHeThongRap": "Beta Cineplex",
+      "logo": "https://lh3.googleusercontent.com/PPy0A3ZJz2gKb9xzTw8FDtuVDKnviZEBU0Rk0M4Lptfw_gH74aBBi3lJ1mWMKeOQXyo"
+    },
+    {
+      "cumRapChieu": [
+        {
+          "lichChieuPhim": [
+            {
+              "maLichChieu": "45037",
+              "maRap": "453",
+              "tenRap": "Rạp 3",
+              "ngayChieuGioChieu": "2019-01-01T10:00:00",
+              "giaVe": 90000,
+              "thoiLuong": 120
+            }
+          ],
+          "maCumRap": "bhd-star-cineplex-3-2",
+          "tenCumRap": "Lotte Cong Hoa",
+          "hinhAnh": null
+        }
+      ],
+      "maHeThongRap": "BHDStar",
+      "tenHeThongRap": "Lotte",
+      "logo": "https://cdn.nhanlucnganhluat.vn/uploads/images/D69545BE/logo/2019-04/pictures_library_6235_20180102135750_4563.jpg"
+    },
+    {
+      "cumRapChieu": [
+        {
+          "lichChieuPhim": [
+            {
+              "maLichChieu": "45037",
+              "maRap": "453",
+              "tenRap": "Rạp 3",
+              "ngayChieuGioChieu": "2019-01-01T10:00:00",
+              "giaVe": 90000,
+              "thoiLuong": 120
+            }
+          ],
+          "maCumRap": "bhd-star-cineplex-3-2",
+          "tenCumRap": "CGV 3/2",
+          "hinhAnh": null
+        }
+      ],
+      "maHeThongRap": "BHDStar",
+      "tenHeThongRap": "CGV",
+      "logo": "https://play-lh.googleusercontent.com/9N7f8PWb1zlDqOR4mepkNFkRt5SlrjFoLsg5jYtVhvq9LeQneLKyHg9eEx4BSgyl7F4"
+    }
 ]     

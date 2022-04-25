@@ -1,0 +1,2355 @@
+[
+  {
+    "title": "Thể Thao Cực Hạn",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/1_urkjlm.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647240338/Flex-ticket/ImageBook/1_urkjlm.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d19b4ed0d5ec948b5c732"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Đây chỉ là câu chuyện hư cấu về 'thể thao mạo hiểm' và các thanh thiếu niên đua xe đạp. Mọi chi tiết trong truyện có thể không giống với thực tế, nên khi đọc truyện xin hãy lưu ý.Hãy luôn đội mũ bảo hiểm và kiểm tra phanh xe mỗi khi đạp xe bạn nhé!",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebc"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebd"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebe"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": {
+      "$oid": "622f21b8b8206bdb1a41a24d"
+    },
+    "view": 10
+  },
+  {
+    "title": "Koko Wa Ore Ni Makasete Saki Ni Ike To Itte Kara 10 Nen Ga Tattara Densetsu Ni Natteita",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/2_fj0pco.png",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647240964/Flex-ticket/ImageBook/2_fj0pco.png"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Là một thành viên trong đội của anh hùng. sau cuộc chiến với thống lĩnh quân đoàn majin. tất cả thành viên đã mõi mệt. lúc này quân đoàn ác quỷ vẫn truy đuổi phía sau. vì bảo vệ anh hùng. bảo vệ niềm hy vọng của thế giới. Luck đã hy sinh ở lại cản bước quân thù. chiến đấu hết ngày này sang ngay càng khác. cuối cùng anh đã tiêu diệt được thống lĩnh quân đoàn majin nhưng khi trở lại thì thế giới đã thay đổi quá nhiều so với những gì anh biết",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf2"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf3"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf4"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": {
+      "$oid": "622f21b8b8206bdb1a41a24d"
+    },
+    "view": 10
+  },
+  {
+    "title": "Nghịch Thiên Kiếm Thần",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/3_syv7wf.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647241102/Flex-ticket/ImageBook/3_syv7wf.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Mênh mông thiên đạo, cường giả vô địch, thượng cổ đan pháp, chiếu phá núi sông vạn đóa, Phần Thiên bảo kiếm, chôn vùi vũ trụ luân hồi, Tu La huyết mạch, mai táng vạn giới chí tôn, Tần Nam đến thiên mệnh truyền thừa, tu vô địch chi pháp, mở ra một trận nghiền ép đương thời vô số thiên tài, thông hướng vạn cổ bất hủ, xưng bá chư thiên con đường cường giả! Phần Thiên nấu rượu tu la đạo, giết hết thiên hạ heo chó bối!",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf2"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbf"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dc0"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": {
+      "$oid": "622f21b8b8206bdb1a41a24d"
+    },
+    "view": 10
+  },
+  {
+    "title": "Chàng Siêu Đạo Tặc",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/4_ey81ks.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647241311/Flex-ticket/ImageBook/4_ey81ks.jpg"
+      }
+    },
+    "author": "625d31feb66b91df72750430",
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Một kẻ nói dối có thể sống một cuộc sống tốt? Tính trung thực khi còn là một đứa trẻ của Utsuho dẫn đến một thảm họa bi kịch và quyết định nói dối từ ngày đó. Lớn lên ở một làng trẻ mồ côi của một tu sĩ, Utsuho là một kẻ không ăn năn. Tu sĩ nuôi lớn anh để giúp mọi người, nhưng không có cách nào Utsuho sẽ sống một cuộc sống trung thực! Thay vào đó, anh ta sẽ sử dụng tài năng của mình cho nghịch ngợm và lừa dối cho tốt!",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf2"
+      },
+      {
+        "$oid": "625d32bf7408e2e85fe98a1b"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf4"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Đạp Toái Tiên Hà",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/5_diacc0.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647241563/Flex-ticket/ImageBook/5_diacc0.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Truyện tranh Đạp Toái Tiên Hà được cập nhật nhanh và đầy đủ nhất tại vlogtruyen. Bạn đọc đừng quên để lại bình luận và chia sẻ, ủng hộ vlogtruyen ra các chương mới nhất của truyện Đạp Toái Tiên Hà.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf2"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbf"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Hỗn Độn Đan Thần",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/6_i6lcr3.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647241713/Flex-ticket/ImageBook/6_i6lcr3.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Truyện tranh Hỗn Độn Đan Thần được cập nhật nhanh và đầy đủ nhất tại vlogtruyen. Bạn đọc đừng quên để lại bình luận và chia sẻ, ủng hộ vlogtruyen ra các chương mới nhất của truyện Hỗn Độn Đan Thần.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf3"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d3d177408e2e85fe98a1e"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Thế Giới Hoàn Mỹ",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/7_yhgdmd.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647241937/Flex-ticket/ImageBook/7_yhgdmd.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d3dc3b66b91df72750431"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Một hạt bụi có thể lấp biển, một cọng cỏ chém hết mặt trời mặt trăng và ngôi sao, trong nháy mắt ở giữa long trời lỡ đất. Quần hùng cùng nổi lên, vạn tộc mọc lên san sát như rừng, chư thánh tranh bá, loạn khắp đất trời. Hỏi mặt đất bao la, cuộc đời thăng trầm? Một thiếu niên theo trong đất hoang đi ra , tất cả bắt đầu từ nơi này...",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbf"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Tôi Trở Nên Phi Thường Ngay Cả Ở Thế Giới Thật",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/8_pvbzdz.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647242145/Flex-ticket/ImageBook/8_pvbzdz.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Yuuya Tenjo đã luôn bị bắt nạt ngay từ nhỏ và bị chính gia đình mình ruồng bỏ. Ngôi nhà duy nhất của cậu là ngôi nhà được thừa hưởng từ ông nội. Trong một lần tình cờ, cậu đã vô tình khám phá được một căn phòng bí mật. Đây là nơi mà ông nội cậu lưu giữ các món đồ vật mà ông thu thập được từ khắp thế giới. Tại đây, một cánh cửa bí ẩn được đặt giữa căn phòng. Đằng sau cánh cửa đó chính là...",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf2"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf3"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf4"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Thương Nhân Thánh Thần",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/9_zk9m4r.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647242610/Flex-ticket/ImageBook/9_zk9m4r.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Erun Steelguarn, kẻ được xem là ô nhục của dòng họ, và cũng là kẻ đã trực tiếp khiến dòng họ Steelguarn lẫy lừng lâm vào cảnh khốn cùng. Được trao cho cơ hội thứ 2 ngay trong lúc sắp chết, Erun đã quay trở lại 16 năm trước. Nhưng giờ đây mọi thứ đã khác, Erun lúc này đã trở thành kẻ có thể thông thương giao dịch xuyên không gian! Hành trình tạo nên tiếng tăm lẫy lừng của một thương nhân độc nhất vô nhị với châm ngôn: mua đáy bán đỉnh!",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebc"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf3"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebd"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      },
+      {
+        "$oid": "625d43457408e2e85fe98a21"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Anh Hùng, Hồi Quy",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/10_b0tsh6.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647242787/Flex-ticket/ImageBook/10_b0tsh6.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d439ab66b91df72750432"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": " Anh hùng mạnh nhất của nhân loại, Kim Sung In. Anh ấy bỏ mặc mọi thứ để quyết tâm lên đường chiến đấu  nhưng… Anh ấy vẫn không thể ngăn chặn sự hủy diệt của thế giới. Tuy nhiên câu truyện huyền thoại của anh ấy chỉ mới bắt đầu khi anh ấy quay trở lại quá khứ vào 20 năm trước.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d66de7408e2e85fe98a23"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebd"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Ta Chỉ Muốn Bị Các Vị Đánh Chết",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/11_d02oqg.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647242907/Flex-ticket/ImageBook/11_d02oqg.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Truyện tranh Ta Chỉ Muốn Bị Các Vị Đánh Chết được cập nhật nhanh và đầy đủ nhất tại flextruyen. Bạn đọc đừng quên để lại bình luận và chia sẻ, ủng hộ flextruyen ra các chương mới nhất của truyện Ta Chỉ Muốn Bị Các Vị Đánh Chết.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Ta Luyện Khí Ba Ngàn Năm",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/12_vkuxaf.png",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647243173/Flex-ticket/ImageBook/12_vkuxaf.png"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Một học sinh tại trường phép thuật, Alto, người đối mặt với nguy cơ học lại, tình cờ tìm thấy một cuốn sách triệu hổi cũ kĩ, và kết quả là, đã triệu hồi ác quỷ bị phong ấn Vermeil! Vermeil là một quỷ có sức mạnh khủng khiếp đủ để gọi là một thảm họa!",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf2"
+      },
+      {
+        "$oid": "625d32bf7408e2e85fe98a1b"
+      },
+      {
+        "$oid": "625d67ef7408e2e85fe98a24"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Nhất Kiếm Độc Tôn",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/13_pbpe8p.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647243425/Flex-ticket/ImageBook/13_pbpe8p.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Gia tộc trưởng lão vì tranh đoạt mỏ bên trên quyền khai thác, phái người nát hắn đan điền, từ đây trở thành Diệp gia con rơi. Nhưng mà hắn lại bởi vì mẫu thân chảy máu chiếc nhẫn ngoài ý muốn tiến vào giới ngục tháp, đến người thần bí chỉ điểm, tu luyện chưa hề có người tu luyện qua kiếm đạo. Diệp gia khí thiếu Diệp Huyền: Ta nhất định phải trở nên cường đại, như thế mới có thể bảo vệ muội muội, đoạt lại ta tại Diệp gia mất đi hết thảy. Nữ tử thần bí: Đi theo ta, ta để ngươi trở thành chư thiên giới mạnh nhất kiếm sĩ. Tại nữ tử thần bí trợ giúp hạ, Diệp Huyền có thể trở thành chư thiên giới mạnh nhất kiếm sĩ sao?...",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf2"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Sủng Mị",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/14_pg8mcf.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647243616/Flex-ticket/ImageBook/14_pg8mcf.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Chủng tộc thực vật, yêu thú, nguyên tố, vong linh thiên kỳ bách quái tạo ra một thế giới Hồn Sủng vô cùng rộng lớn. Nhân vật chính của Truyện Sủng Mị là một vị Hồn sủng sư trẻ tuổi, lúc ban đầu mang theo một con dị biến Nguyệt Quang Hồ chiến đấu liên miên bất tuyệt, vượt qua vô vàn khó khăn cách trở, hiểm cảnh cầu sinh từ từ phát triển biến hóa thành Tà Diễm Lục Vĩ Yêu Hồ, Miện Diễm Cửu Vĩ Yêu Hồ và chủng tộc cao cấp hơn nữa.Hắn chậm rãi bước lên con đường cường giả, không ngừng thu phục các loại Hồn sủng trân quý, phấn đấu vì một ngày đứng trên đỉnh thế giới.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbf"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Bắt Đầu Từ Độ Kiếp",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/15_ysfvxz.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647339378/Flex-ticket/ImageBook/15_ysfvxz.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Truyện tranh Bắt Đầu Từ Độ Kiếp được cập nhật nhanh và đầy đủ nhất tại vlogtruyen. Bạn đọc đừng quên để lại bình luận và chia sẻ, ủng hộ vlogtruyen ra các chương mới nhất của truyện Bắt Đầu Từ Độ Kiếp.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbf"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Vườn Trường Cuồng Sư Hệ Thống",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/16_nvbpbn.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647339489/Flex-ticket/ImageBook/16_nvbpbn.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Ninh Phàm trùng sinh trở về, là một giáo viên cấp S, lại bị phân đến lớp D kém nhất. Nhưng không sao, vì ta đã có cuồng sư hệ thống trong tay, hãy xem ta làm thế nào chinh phục học sinh, đánh bại phản phái, cướp đoạt học viện, khai tông lập phái, đi lên đỉnh cao của đại lục.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf3"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Tàng Phong",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/17_h5mgcy.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647339604/Flex-ticket/ImageBook/17_h5mgcy.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Truyện tranh Tàng Phong được cập nhật nhanh và đầy đủ nhất tại vlogtruyen. Bạn đọc đừng quên để lại bình luận và chia sẻ, ủng hộ vlogtruyen ra các chương mới nhất của truyện Tàng Phong.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Thánh Đường Chi Thành",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/18_pqsaff.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647339686/Flex-ticket/ImageBook/18_pqsaff.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Thánh đường chi thành được cải biên từ bộ tiểu thuyết nổi tiếng cùng tên! Hoan— Tịch Quyển là trò chơi VR nổi tiếng toàn thế giới, có người phát hiện có thể thông qua một cách khác tiến vào trò chơi, có thể mang vật phẩm và kĩ năng trong game mang về hiện thực, cả thế giới vì điều này mà sôi sùng sục, nhưng đồng thời, cách này khiến cái chết trong game cũng trở thành cái chết thực sự. Phương Thiên đã ở trong thế giới game mười mấy năm, khi anh lần nữa quay về thế giới hiện thực, tất cả đều lặng lẽ tiến hành....",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf3"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Mạt Thế Vi Vương",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/19_lkamxx.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647339781/Flex-ticket/ImageBook/19_lkamxx.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Thanh niên sống sót trong tận thế đến mấy trăm năm trong tương lai,xong bị con quái giết chết nhưng éo chết ngược lại trọng sinh quay về quá khứ,diễn biến thế nào thì đọc là biết",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d66de7408e2e85fe98a23"
+      },
+      {
+        "$oid": "625d6a617408e2e85fe98a25"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Quyền Bá Thiên Hạ",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/20_t3ubo1.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647339897/Flex-ticket/ImageBook/20_t3ubo1.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Chân Võ Đại Lục, mỗi người sinh ra đều có có một VÕ HỒN. Lấy đôi tay làm cầu nối thông với võ hồn, sử dụng võ hồn chinh chiến thiên hạ, họ gọi là Võ Quyền Sư. Câu chuyện của chúng ta khởi đầu từ 1 đệ tử của Võ Môn...",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf2"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf3"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      },
+      {
+        "$oid": "625d6ae87408e2e85fe98a27"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Rocopon",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/21_anetcy.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647340017/Flex-ticket/ImageBook/21_anetcy.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d6b49b66b91df72750433"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "8 năm trước, một người ngoài hành tinh đã tới Trái Đất và hiện tại anh ta đã được cấp quyền công dân và được đặt dưới dự quản lý của Bộ Quốc Phòng Nhật Bản. Trông bề ngoài chỉ là một thằng cha vô công rồi nghề nhưng thực tế anh ta hiện đang làm việc cho Bộ Quốc Phòng nhưng làm việc gì thì...",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d32bf7408e2e85fe98a1b"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebc"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf4"
+      },
+      {
+        "$oid": "625d6bba7408e2e85fe98a29"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Đại Phụng Đả Canh Nhân",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/22_aoq5wh.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647341473/Flex-ticket/ImageBook/22_aoq5wh.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Truyện tranh Đại Phụng Đả Canh Nhân được cập nhật nhanh và đầy đủ nhất tại vlogtruyen. Bạn đọc đừng quên để lại bình luận và chia sẻ, ủng hộ vlogtruyen ra các chương mới nhất của truyện Đại Phụng Đả Canh Nhân.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d66de7408e2e85fe98a23"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbf"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Gacha Wo Mawashite Nakama Wo Fuyasu Saikyou No Bishoujo Gundan Wo Tsukuriagero",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/23_l0bhnt.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647341629/Flex-ticket/ImageBook/23_l0bhnt.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d6cbeb66b91df72750434"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Anh main nhà ta là 1 tay chơi Gacha game thứ thiệt. Trong lúc đang mở hộp Ultra Rare thì nhận được thiệp mời sang thế giới khác, một thế giới mà anh main có thể triệu hồi vật phẩm và nhân vật thông qua mở Gacha. Và rồi hành trình xây dựng đội quân toàn những cô gái xinh đẹp của anh main nhà ta bắt đầu !!!",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf2"
+      },
+      {
+        "$oid": "625d32bf7408e2e85fe98a1b"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf3"
+      },
+      {
+        "$oid": "625d67ef7408e2e85fe98a24"
+      },
+      {
+        "$oid": "625d6db17408e2e85fe98a2a"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Lùi ra sau, để vi sư đến",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/24_sit0qd.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647342112/Flex-ticket/ImageBook/24_sit0qd.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Đường Tăng xuyên không, lấy kinh thành công, được phong là “đấu chiến thắng Phật”. chớp mắt vừa tỉnh lại, bãi bể nương dâu, lại quay về hiện đại. Chỉ là trò chơi thần ma, vòng quay luân hồi, yêu ma quỷ quái, quần ma loạn vũ. Có yêu khí! “Lùi lại, để vi sư lên.” Đường Lạc lộ ra nụ cười “từ bi” với quá khứ.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbf"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      },
+      {
+        "$oid": "625d6db17408e2e85fe98a2a"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Ta Có Thể Thấy Tỉ Lệ Thành Công",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/25_w1tuf9.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647342484/Flex-ticket/ImageBook/25_w1tuf9.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Thế giới nhân sinh thật chán chường !!!Thiếu niên Bạch Võ đột nhiên lấy được dị năng thấy được tỉ lệ thành công !!!Từ nay về sau có một cuộc sống mới !!! Mỹ nữ thấy đã yêu !!! Lợi dụng dị năng đó đi về nhân sinh đỉnh phong !!!Angles Of Death Team",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Nguyên Tôn",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/26_ilo3rn.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647342812/Flex-ticket/ImageBook/26_ilo3rn.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d6ec4b66b91df72750435"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Một tác phẩm mới của Thiên Tằm Thổ Đậu Ta có một ngụm Huyền Hoàng Khí, có thể nuốt thiên địa nhật nguyệt tinh. ......... Lúc đó đường về, đã là một con đường vận mệnh treo ngược. Ngày xưa vinh hoa, như thay đổi khôn lường, một giấc ác mộng dài. Thiếu niên chấp bút, Long Xà bay động. Là vì một vòng quang mang bổ ra dáng vẻ nặng nề chi loạn thế, vấn đỉnh điện ngọc thương khung. Đường báo thù, cùng ta đồng hành. Một ngụm Huyền Hoàng chân khí nhất định nuốt thiên địa nhật nguyệt tinh thần, hùng thị cỏ cây thương sinh. Thiết họa tịch chiếu, vụ ải ngân câu, bút tẩu du long xông Cửu Châu. Hoành tư thiên hạ, mực vẩy thanh sơn, thôn tính biển hồ nạp trăm sông.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf2"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf3"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbf"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Yêu Phụ",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/27_yczxrk.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647342955/Flex-ticket/ImageBook/27_yczxrk.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "hôm đó, một nữ nhân đã mất đi nhiều năm, lại quay trở lại thôn làng. Cũng từ hôm đó, ông chủ tiệm quan tài chuẩn bị cho mỗi một người một cỗ quan tài. Có người nói cô ta là lệ quỷ đòi mạng, có người nói cô ta là quái vật ăn thịt người, chỉ có tôi biết, cô ấy vì tôi mà đến.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf2"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf2"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Nhân Vật Chính Mạnh Nhất Lịch Sử",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/28_odfxyl.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647343055/Flex-ticket/ImageBook/28_odfxyl.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Thân phụ dị năng, triệu tiểu trời nhận hết gặp trắc trở. một trận bạo tạc qua đi, hắn đuổi kịp thế giới khác xuyên qua trào lưu, đáng tiếc hắc ám thế lực ma trảo vẫn không có bỏ qua hắn, ám sát bắt cóc giết con tin, triệu tiểu thiên nhẫn không thể nhẫn bị đưa vào tu tiên danh môn —— tiêu dao môn, từ đây mở ra hắn nỗ ( phàm ) lực",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d66de7408e2e85fe98a23"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbf"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      },
+      {
+        "$oid": "625d6db17408e2e85fe98a2a"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Siêu Thần Hẹn Hò Cùng Hoa Khôi",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/29_boxzpk.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647343232/Flex-ticket/ImageBook/29_boxzpk.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Truyện tranh Siêu Thần Hẹn Hò Cùng Hoa Khôi được cập nhật nhanh và đầy đủ nhất tại vlogtruyen. Bạn đọc đừng quên để lại bình luận và chia sẻ, ủng hộ vlogtruyen ra các chương mới nhất của truyện Siêu Thần Hẹn Hò Cùng Hoa Khôi.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d32bf7408e2e85fe98a1b"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625da9087408e2e85fe98a2b"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Côn Thôn Thiên Hạ",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/30_ffqafx.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647689294/Flex-ticket/ImageBook/30_ffqafx.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Đây là một thế giới chỉ dành cho Linh Sủng, người người nuôi linh sủng, luyện linh sủng, chiến đấu bằng Linh Sủng... Khởi đầu từ 1 chú cá CÔN. Chỉ dựa vào thôn phệ để tu hành,thiếu niên chưởng môn Lăng tiêu Các - Phàn Lăng Tiêu đem một bé cá nheo nhỏ tiến hóa thành Thôn Thiên Phệ Địa Linh Côn, trở thành linh sủng sư danh chấn thiên hạ Nhưng mà không biết trong lúc quyết đấu đã xảy ra chuyện gì khiến Linh Côn tiến hóa thất bại, trở thành hung thần thi côn, mở ra cái miệng máu nuốt chửng chủ nhân của mình. Khi Phàn Lăng Tiêu tỉnh lại lần nữa thời điểm, cảnh tượng trước mắt đã có khác biệt lớn...",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf2"
+      },
+      {
+        "$oid": "625d66de7408e2e85fe98a23"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf3"
+      },
+      {
+        "$oid": "625d6db17408e2e85fe98a2a"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Mỗi Tuần Ta Có Một Nghề Nghiệp Mới",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/31_ctn9xf.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647689387/Flex-ticket/ImageBook/31_ctn9xf.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Lâm Dật sau khi bị công ty sa thải, thần xui quỷ khiến thế nào nhận được HỆ THỐNG THỂ NGHIỆM MỌI NGHỀ NGHIỆP, Lâm Dật dựa vào hệ thống bố trí từng bước từng bước đi lên trở thành đại lão toàn cầu! Thể nghiệm tài xế DiDi, ban thưởng một chiếc xe Pagani Zonda. Thể nghiệm giảng viên đại học, ban thưởng mười tòa nhà. Thể nghiệm ông chủ, ban thưởng 1 tỷ",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d32bf7408e2e85fe98a1b"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Cựu tác Long Hổ Môn",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/32_cl1pb7.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647689463/Flex-ticket/ImageBook/32_cl1pb7.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625daa2ab66b91df72750436"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Cựu tác Long Hổ Môn. Tác phẩm kinh điển của manhua Hongkong. Được thực hiện từ chapter 1000 đến hết của Group Sơn Hải Nghịch Chiến.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d6ae87408e2e85fe98a27"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Không Có Đạo Lữ Sẽ Chết",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/33_iba8dj.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647689532/Flex-ticket/ImageBook/33_iba8dj.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Chấn kinh! Ngây thơ thiếu niên tại mộ tổ bị đại tỷ tỷ xem như lô đỉnh? Trên thân quái bệnh vậy mà như kỳ tích biến mất, còn chính thức bước lên con đường tu tiên. Ân?......30 Trời bên trong nhất định phải lần nữa tu luyện? Nếu không liền sẽ chết?..Truyện được cập nhập sớm trên youtube Manhua HD 2 ủng hộ nhóm dịch nhé !",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf3"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbf"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Nguyên Long",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/34_sscdyh.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647689617/Flex-ticket/ImageBook/34_sscdyh.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Nguyên Hồn thế giới, huyền huyễn thần kỳ, gia tộc bộc phát, tông môn đứng vững, cường giả phân ra, cao thủ như mây.Vương bài tay đánh lén Vương Thắng xuyên qua đến Nguyên Hồn thế giới, đâm đầu vào không đủ tư cách nhất cá chép tàn hồn, thành người gặp người bắt nạt phế vật. Ta tới là giết người, không phải đến bị các ngươi cười nhạo.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf2"
+      },
+      {
+        "$oid": "625d66de7408e2e85fe98a23"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebc"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      },
+      {
+        "$oid": "625d6db17408e2e85fe98a2a"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Tổ Sư Gia Đứng Đầu Lịch Sử",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/35_mpaexy.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647689733/Flex-ticket/ImageBook/35_mpaexy.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Truyện tranh Tổ Sư Gia Đứng Đầu Lịch Sử được cập nhật nhanh và đầy đủ nhất tại vlogtruyen. Bạn đọc đừng quên để lại bình luận và chia sẻ, ủng hộ vlogtruyen ra các chương mới nhất của truyện Tổ Sư Gia Đứng Đầu Lịch Sử.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf2"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      },
+      {
+        "$oid": "625d6db17408e2e85fe98a2a"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Cuồng Đao 04",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "ImageBook/36_vxzkel.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647689857/Flex-ticket/ImageBook/36_vxzkel.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Cuồng Đao 04 là phần nối tiếp trong series Lôi Lạc. Có liên quan chặt chẽ cốt truyện của các phần trước như Phong Bạo Thập Tam, Hổ Cuồng Long, Á Châu Hùng Sư và các phần sau là Thiên Sát Cuồng Đao. Truyện bắt đầu từ 2011 nhưng bị dừng vì không người thực hiện!",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d6ae87408e2e85fe98a27"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Naruto",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/37_bgqhow.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1650306264/Flex-ticket/ImageBook/37_bgqhow.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625dad15b66b91df72750437"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Nhật Bản đã bị xâm lược bởi các vị thần. Tokyo, nơi ở của các vị thần, đã được tuyên bố là vùng nguy hiểm và được phong tỏa chặt chẽ bởi hàng rào không thể xuyên thủng. Một cô gái tên là Waka cứ nhìn ra ngoài ranh giới của hàng rào. Waka đến Tokyo từ Saga để gặp bạn của mình, nhưng ở đó cô gặp Tokinaga, một nhà nghiên cứu đã cảnh giác bảo vệ thành phố. Cuộc gặp gỡ này sẽ thay đổi số phận của thế giới ...",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d32bf7408e2e85fe98a1b"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebc"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf3"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dc0"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Đại Ma Hoàng Thường Ngày Phiền Não",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/38_t6nto2.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647690094/Flex-ticket/ImageBook/38_t6nto2.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Truyện tranh Đại Ma Hoàng Thường Ngày Phiền Não được cập nhật nhanh và đầy đủ nhất tại vlogtruyen. Bạn đọc đừng quên để lại bình luận và chia sẻ, ủng hộ vlogtruyen ra các chương mới nhất của truyện Đại Ma Hoàng Thường Ngày Phiền Não.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf2"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbf"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Võ Luyện Đỉnh Phong",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/39_efldzr.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647690188/Flex-ticket/ImageBook/39_efldzr.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Võ đạo đỉnh phong, là cô độc, là tịch mịch, là dài đằng đẵng cầu tác, là cao xử bất thắng hàn Phát triển trong nghịch cảnh, cầu sinh nơi tuyệt địa, bất khuất không buông tha, mới có thể có thể phá võ chi cực đạo. Lăng Tiêu các thí luyện đệ tử kiêm quét rác gã sai vặt Dương Khai ngẫu lấy được một bản vô tự hắc thư, từ nay về sau đạp vào dài đằng đẵng võ đạo.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf3"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dc0"
+      },
+      {
+        "$oid": "625d3d177408e2e85fe98a1e"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Cựu Dũng Giả Trở Về Từ Thế Giới Khác Tham Gia Vào Trò Chơi Tử Thần!",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/40_vucse3.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647690367/Flex-ticket/ImageBook/40_vucse3.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Đáng lẽ ra, cậu phải sống một cuộc sống yên bình như một học sinh trung học bình thường, nhưng một ngày nọ, Ise kaito bất ngờ bị đưa đến một hòn đảo hoang cùng với tất cả các bạn cùng lớp. “Chúng mày hãy tàn sát lẫn nhau cho đến người cuối cùng .” Mọi người hoảng sợ trước lời nói của một gã cao to đen hôi, và bị ép buộc phải tham gia vào một trò chơi tử thần. Chúng ai ai cũng mong chờ giây phút học sinh giết nhau. Kẻ mạnh ăn thịt kẻ yếu trong trò chơi này. Những kẻ yếu đuối phải chết một cách tàn nhẫn và những kẻ chiến thắng hưởng vinh quang nhưng họ không hề hay biết. Một trong những học sinh tham gia vào trò chơi tử thần là cựu anh hùng mạnh nhất vừa trở về từ thế giới khác.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebc"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf3"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf4"
+      },
+      {
+        "$oid": "625dae9e7408e2e85fe98a2c"
+      },
+      {
+        "$oid": "625daebe7408e2e85fe98a2d"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dc0"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Vĩnh Hằng Chí Tôn",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/41_vmh3kb.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647690524/Flex-ticket/ImageBook/41_vmh3kb.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625daf16b66b91df72750438"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Vũ Chi Đỉnh Phong, Di Sơn Đảo Hải, Tróc Tinh Nã Nguyệt, nghịch loạn thời không!Kiếm cực kỳ cảnh, một kiếm thành Đạo, một kiếm thông thần, một kiếm phá vạn pháp!Niên thiếu Lý Phù Trần, ngẫu được kim sắc tiểu phù, linh hồn không ngừng tiến hóa, ở thiên tài này như mưa, cường giả Như Vân thế giới, lấy kiếm trong tay, du ngoạn sơn thuỷ tuyệt đỉnh.Thiên địa có lúc hủy diệt,riêng ta vĩnh hằng bất hủ.Truyện chữ Vĩnh Hằng Chí Tôn",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf4"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbf"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dc0"
+      },
+      {
+        "$oid": "625d3d177408e2e85fe98a1e"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Đại Tượng Vô Hình",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/42_bimyrm.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647690669/Flex-ticket/ImageBook/42_bimyrm.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625daf8db66b91df72750439"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Nữ chính trong một lần tai nạn xe bị sinh vật bí ẩn gá vào người, sau khi tỉnh lại đến một thế giới yêu linh. Trong lúc cô ấy sợ hãi, tuyệt vọng thì xuất hiện một thiếu niên cứu cô ta về hiện thế. Thì ra thế giới này có yêu linh, sinh vật trong cơ thể cô ta là yêu linh tên Nhân Tiêu, không cách nào đẩy yêu linh ra ngoài được, cùng đồng hành trên con đường trừ yêu...",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf2"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebc"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf3"
+      },
+      {
+        "$oid": "625d6a617408e2e85fe98a25"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbf"
+      },
+      {
+        "$oid": "625d3d177408e2e85fe98a1e"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      },
+      {
+        "$oid": "625d43457408e2e85fe98a21"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Đô Thị Tà Vương",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/43_w15b53.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647690813/Flex-ticket/ImageBook/43_w15b53.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Truyện tranh Đô Thị Tà Vương được cập nhật nhanh và đầy đủ nhất tại vlogtruyen. Bạn đọc đừng quên để lại bình luận và chia sẻ, ủng hộ vlogtruyen ra các chương mới nhất của truyện Đô Thị Tà Vương.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf2"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf3"
+      },
+      {
+        "$oid": "625d32bf7408e2e85fe98a1b"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Tiên Võ Đế Tôn",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/44_fhrn2t.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647690957/Flex-ticket/ImageBook/44_fhrn2t.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Truyện tranh Tiên Võ Đế Tôn được cập nhật nhanh và đầy đủ nhất tại vlogtruyen. Bạn đọc đừng quên để lại bình luận và chia sẻ, ủng hộ vlogtruyen ra các chương mới nhất của truyện Tiên Võ Đế Tôn.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf2"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf3"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "One piece",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/45_ku8btu.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1649937231/Flex-ticket/ImageBook/45_ku8btu.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "One Piece xoay quanh 1 nhóm cướp biển được gọi là Băng Hải tặc Mũ Rơm - Straw Hat Pirates - được thành lập và lãnh đạo bởi thuyền trưởng Monkey D. Luffy. Cậu bé Luffy có ước mơ tìm thấy kho báu vĩ đại nhất, One Piece, của Vua Hải Tặc đời trước Gold D. Roger và trở thành Vua Hải Tặc đời kế tiếp. Ở Việt Nam hiện nay, truyện đang được Nhà xuất bản Thanh Hóa xuất bản nhưng không có bản quyền, với tên gọi là Đảo Hải tặc Cốt truyện: Monkey D. Luffy, 1 cậu bé rất thích hải tặc có ước mơ tìm được kho báu One Piece và trở thành Vua hải tặc - Pirate King. Lúc nhỏ, Luffy tình cờ ăn phải trái quỉ (Devil Fruit) Gomu Gomu, nó cho cơ thể cậu khả năng co dãn đàn hồi như cao su nhưng đổi lại cậu sẽ không bao giờ biết bơi. Sau đó Luffy lại được Shank cứu thoát tuy nhiên ông ta bị mất 1 cánh tay. Sau đấy Shank chia tay Luffy và để lại cho cậu cái mũ rơm (Straw Hat) và nói rằng: Sau này bao giờ thành cướp biển hãy gặp ta và trả lại nó. Chính lời nói này đã thúc đầy Luffy trở thành 1 cướp biển thật sự.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf2"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf4"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebc"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf3"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf4"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dc0"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Tales Of Destruction",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "ImageBook/46_vnwbxo.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647691337/Flex-ticket/ImageBook/46_vnwbxo.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625db15db66b91df7275043b"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Không dành cho thanh niên nghiêm túc. Một bộ manga được chuyển thể từ các câu chuyện cổ tích bạn hay nghe bà kể hồi tấm bé, nhưng được pha thêm sự sáng tạo hơn cả series Cổ tích cho người hôi nách của chú Monsieur Tuna, yếu tố máu me ngang ngửa Chainsaw Man, lối đánh 1vs1 như Record of Ragnarok, gái ngol nữa. Đánh? Đúng vậy, 32 nhân vật trong truyện cổ tích sẽ được thả vào một đấu trường với một diện mạo hoàn toàn mới, tham gia một cuộc chiến sinh tử để dành giải thưởng đặc biệt: “Hồi sinh một người và sống hạnh phúc mãi mãi về sau”. Chắc chắn rằng bà của bạn chưa bao giờ kể câu chuyện này. Xin nhắc lại, vũ trụ bối cảnh trong truyện hoàn toàn được tác giả sáng tạo, có thể có những chi tiết gây khó chịu nhưng chỉ J4F, xin đừng phốt...",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf4"
+      },
+      {
+        "$oid": "625d6ae87408e2e85fe98a27"
+      },
+      {
+        "$oid": "625d3d177408e2e85fe98a1e"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Vạn Tộc Chi Kiếp",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/47_cahick.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647691387/Flex-ticket/ImageBook/47_cahick.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Truyện tranh Vạn Tộc Chi Kiếp được cập nhật nhanh và đầy đủ nhất tại vlogtruyen. Bạn đọc đừng quên để lại bình luận và chia sẻ, ủng hộ vlogtruyen ra các chương mới nhất của truyện Vạn Tộc Chi Kiếp.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbf"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Shokei Sareta Kenja wa Lich ni Tensei Shite Shinryaku Sensou wo Hajimaru",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/48_fsyheo.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647691472/Flex-ticket/ImageBook/48_fsyheo.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Truyện tranh Shokei Sareta Kenja wa Lich ni Tensei Shite Shinryaku Sensou wo Hajimaru được cập nhật nhanh và đầy đủ nhất tại vlogtruyen. Bạn đọc đừng quên để lại bình luận và chia sẻ, ủng hộ vlogtruyen ra các chương mới nhất của truyện Shokei Sareta Kenja wa Lich ni Tensei Shite Shinryaku Sensou wo Hajimaru.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf2"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebc"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf3"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf4"
+      },
+      {
+        "$oid": "625d6bba7408e2e85fe98a29"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Ngận Thuần Ngận Ái Muội",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/49_d4picq.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647691623/Flex-ticket/ImageBook/49_d4picq.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625db2a0b66b91df7275043c"
+    },
+    "status": "Đã hoàn thành",
+    "delete": false,
+    "description": "Lưu ý: truyện sắc + hậu cung, hợp thì đọc, không hợp thì PHẮN, đánh nguyên cái tag Adult với Harem trên kia vẫn cắm đầu vào đọc xong comment như mấy thằng ngáo :u Sau một biến cố, lên cấp 3, Dương Minh trở thành một học sinh cá biệt, suốt ngày đánh nhau, học hành sa sút, ăn chơi lêu lổng, tuy nhiên, cơ bản vẫn là người tốt, không chủ động gây sự với ai bao giờ. Một lần tình cờ giúp một ông lão bán hàng rong bên đường khỏi bọn du côn. Sau đó nó được ông lão tặng cho một cặp kính áp tròng thần kỳ, có thể nhìn xuyên thấu mọi vật, kể cả... quần áo của mọi người. Một loạt sự kiện đặc biệt tiếp đó đã làm hắn thay đổi cách nhìn về cuộc sống, nhìn lại tình cảnh gia đình mình, nhìn thấy cha mẹ sống khổ cực, Dương Minh đã quyết tâm thay đổi cuộc đời mình bằng cách thi đậu đại học, cua được lớp phó học tập được xưng là hoa hậu của trường, thậm chí còn kết thân được với cô giáo dạy toán chỉ hơn Dương Minh 3 tuổi (thân trên mức bạn bè...), gây dựng sự nghiệp một cách hiển hách... Sự việc tiếp theo sẽ ra sao? Liệu Dương Minh có đỗ được đại học, và vượt qua được các trở ngại của cuộc đời mình?",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebc"
+      },
+      {
+        "$oid": "625d67ef7408e2e85fe98a24"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d6ae87408e2e85fe98a27"
+      },
+      {
+        "$oid": "625da9087408e2e85fe98a2b"
+      },
+      {
+        "$oid": "625d3d177408e2e85fe98a1e"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Ngã lão ma thần",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/50_um7g7m.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647691858/Flex-ticket/ImageBook/50_um7g7m.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Một trong những Ma thần mạnh nhất lịch sử võ lâm xuất hiện, là kỳ tài võ học kinh người, nhưng khởi nguồn lại là do ... thằng chút chít cách đó cả ngàn năm bay về can thiệp, câu chuyện hư cmn cấu này rồi sẽ đi đâu về đâu =))",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebd"
+      },
+      {
+        "$oid": "625d6ae87408e2e85fe98a27"
+      },
+      {
+        "$oid": "625d3d177408e2e85fe98a1e"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Regina Lena - Gửi Người Không Được Tha Thứ",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/51_ixvk57.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647692474/Flex-ticket/ImageBook/51_ixvk57.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "“Tôi sẽ cho ông một cơ hội. Một cơ hội để được tôi tha thứ”. Người cha ấy đã bán đi chính con gái mình. Và cô con gái ngỡ đã yên giấc dưới địa ngục đó nay đã trở lại. Trong một đế chế mà sự sống và diệt vong lẫn lộn. Lena Rubel bé nhỏ đã được định sẵn cái chết như vật hiến tế cho cha mình. Nhưng sáu năm sau, cô gái mà mọi người tưởng rằng đã không còn trên cõi đời này lại quay trở về. Tháo bỏ chiếc mặt nạ cừu non và trở thành sư tử.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf3"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebd"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      },
+      {
+        "$oid": "625da9087408e2e85fe98a2b"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Quái Vật Nhạc Viên",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/52_aets6r.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647693032/Flex-ticket/ImageBook/52_aets6r.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625db3edb66b91df7275043d"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Cảnh giới: https://sites.google.com/view/tuvibachvanthong/manhua/quái-vật-nhạc-viên (vào đây coi cho nó lẹ, liệt kê ra mất thời gian) 800 năm trước, bầu trời tại các nơi trên thế giới mở ra 3000 tòa hư không đại môn, giống như 3000 viên đồng tử màu sắc khác nhau treo lơ lửng ở phía trên bầu trời, vô số quái vật từ trong đồng tử cuồn cuộn tuôn ra. Có Cự Hình Chủng một đòn đánh xuống có thể phá thành hủy tường, hình thể to lớn, lấy thịt người làm thức ăn; Có Ký Sinh Chủng ký sinh trong cơ thể người, hấp thu dinh dưỡng trong cơ thể người, khống chế loài người vì chính mình phục vụ; Có Phệ Huyết Chủng ẩn núp tại thành phố của loài người, ngụy trang thành hình dáng của loài người, lấy máu người làm thức ăn... Trong vòng một đêm, loài người biến thành sinh vật đứng chót chuỗi thức ăn. Toàn bộ thế giới, trở thành Quái Vật Nhạc Viên... 800 năm sau, có nam nhân tên gọi Lâm Hoàng nói rằng: Thế giới này tất cả quái vật, chỉ cần ta muốn, đều sẽ trở thành triệu hoán thú của ta.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf2"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf3"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf4"
+      },
+      {
+        "$oid": "625d3d177408e2e85fe98a1e"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      },
+      {
+        "$oid": "625d6db17408e2e85fe98a2a"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Murabito Tensei: Saikyou No Slow Life",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/53_js95mc.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647693140/Flex-ticket/ImageBook/53_js95mc.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625db499b66b91df7275043e"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Chúa đã vô tình giết chết tôi và cho tôi được chuyển sinh. Sống trong một ngôi làng nhỏ bé và được vây quanh bởi cô em gái xinh đẹp, những cô bạn gái thơ ấu. Hãy cùng tôi tận hưởng cuộc sống yên bình ở thế giới mới này nào!",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf2"
+      },
+      {
+        "$oid": "625d32bf7408e2e85fe98a1b"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf3"
+      },
+      {
+        "$oid": "625d67ef7408e2e85fe98a24"
+      },
+      {
+        "$oid": "625d6bba7408e2e85fe98a29"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Vạn Cổ Tối Cường Tông",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/54_i32cp7.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647693219/Flex-ticket/ImageBook/54_i32cp7.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Truyện tranh Vạn Cổ Tối Cường Tông được cập nhật nhanh và đầy đủ nhất tại vlogtruyen. Bạn đọc đừng quên để lại bình luận và chia sẻ, ủng hộ vlogtruyen ra các chương mới nhất của truyện Vạn Cổ Tối Cường Tông.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbf"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Nhà hiền triết vô song chưa thành công về mặt học thuật ~ Một phù thủy S-Rank gian lận sau tái sinh",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/55_xts1ys.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647693450/Flex-ticket/ImageBook/55_xts1ys.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625db599b66b91df7275043f"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Sau khi tái sinh ở một thế giới khác, nhà hiền triết vĩ đại Ephthal đã dành cả cuộc đời để nghiên cứu ma thuật. Tuy nhiên, anh ta đã nhắm đến đỉnh cao của ma thuật, biết về giới hạn của tài năng của mình và rơi vào tuyệt vọng, do đó khép lại bức màn cho cuộc đời anh. Tuy nhiên, 400 năm sau, anh tái sinh lần thứ hai thời gian và ghi danh vào một học viện ma thuật sử dụng phép thuật và kiến ​​thức mà anh ta có được từ kiếp trước. Như thể chế nhạo trạng thái ma thuật đã suy tàn trong 400 năm qua, anh ta dễ dàng gọi phép thuật huyền thoại! Với sức mạnh áp đảo, cả thế giới sẽ quỳ xuống trước anh ta.",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf2"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf3"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf4"
+      },
+      {
+        "$oid": "625d67ef7408e2e85fe98a24"
+      },
+      {
+        "$oid": "625da9087408e2e85fe98a2b"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Phong Khởi Thương Lam",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/56_bjrqau.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647693583/Flex-ticket/ImageBook/56_bjrqau.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Tình hình là nàng ghiền game. Một hôm vô tình bị lạc vào thế giới Game, và đã gặp được chàng, cuộc sống ảo đen xen đời thực. Đâu là thực đâu là giả, thôi thì cứ yêu thôi … Một câu chuyện vừa hài hước vừa lãng mạn. Chỉ biết nhiêu đó thôi. Xem típ thì biết nhé!!!",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf2"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625da9087408e2e85fe98a2b"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Ta tự quản lý hệ thống",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/57_porzrj.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647693684/Flex-ticket/ImageBook/57_porzrj.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Một trận sao băng rơi xuống, rất nhiều người thức tỉnh dị năng. Phương Ninh có được năng lực hệ thống, nhưng bản thân quá mức phế vật, tất cả đều dựa vào hệ thống toàn năng ủy thác thành đỉnh tiêm tu luyện giả. Con đường thăng cấp tuy rằng có cãi cọ tổn hại lẫn nhau, nhưng thời khắc mấu chốt đều sẽ vì đối phương mà suy nghĩ",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d2c14ed0d5ec948c49bf2"
+      },
+      {
+        "$oid": "625d3064ed0d5ec948c80dbe"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Thiên Ma Thần Quyết: Trùng Sinh",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/58_dvjbqb.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647693741/Flex-ticket/ImageBook/58_dvjbqb.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Yang Jagak, người bị sát hại bằng thuốc độc trong cuộc nội chiến của giới võ lâm. Trong lúc hắn nghĩ rằng mình đã chết, hắn nhận ra mình đang ở trong thân thể của một người khác. Hắn phát hiện ra rằng hắn đang ở trong Ma giáo, võ công hắn học là võ công Thiên Ma Thần Thuật , và chủ nhân của thân thể này là thiếu chủ của tà giáo - kẻ có dục vọng mãnh liệt với phụ nữ. Tại sao phải là Ma giáo, và tại sao lại phải là người này?",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebd"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      },
+      {
+        "$oid": "625d66de7408e2e85fe98a23"
+      },
+      {
+        "$oid": "625d6db17408e2e85fe98a2a"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Học Giả Trở Lại",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/59_gyhv5e.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647693831/Flex-ticket/ImageBook/59_gyhv5e.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625d156b3d0379c87a142fa0"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Cử nhân Ma Hyun, sau khi mất tích trong 10 năm, anh đã trở lại xã hội với tư cách là một chủ nhân quyền lực! Trong khi là một giáo viên, anh ấy cũng đang cố gắng thanh trừng tổ chức xấu xa tên là Heukcheonbyeol. Và như vậy, cuộc sống của anh ấy với tư cách là người thầy mạnh nhất của Joongwon đã mở ra ngay bây giờ!",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d32bf7408e2e85fe98a1b"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebd"
+      },
+      {
+        "$oid": "625d6ae87408e2e85fe98a27"
+      },
+      {
+        "$oid": "625d261ded0d5ec948bfeebf"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  },
+  {
+    "title": "Cuộc Chiến Ẩm Thực",
+    "image": {
+      "wallPaper": {
+        "id": "",
+        "url": ""
+      },
+      "bookCover": {
+        "id": "Flex-ticket/ImageBook/60_esve3w.jpg",
+        "url": "https://res.cloudinary.com/dwnucvodc/image/upload/v1647693934/Flex-ticket/ImageBook/60_esve3w.jpg"
+      }
+    },
+    "author": {
+      "$oid": "625db76eb66b91df72750440"
+    },
+    "status": "Đang tiến hành",
+    "delete": false,
+    "description": "Cậu trai trẻ Yukihira Souma là con nhà nòi của 1 quán ăn bình dân , cậu có 1 khao khát cháy bỏng là vượt qua cha mình người đã đánh bại cậu liên tục 489 trận ( mặc dù trình nấu ăn của anh Main cũng thần thánh không kém ) . Đến 1 ngày cậu nghe lời cha mình để vào trường đào tạo tài năng ẩm thực . Câu chuyện đời cậu sắp bước sang 1 ngã rẻ khác nhìu thú vị hơn...",
+    "genre": [
+      {
+        "$oid": "625d24e4ed0d5ec948bef900"
+      },
+      {
+        "$oid": "625d32bf7408e2e85fe98a1b"
+      },
+      {
+        "$oid": "625d67ef7408e2e85fe98a24"
+      },
+      {
+        "$oid": "625da9087408e2e85fe98a2b"
+      },
+      {
+        "$oid": "625daebe7408e2e85fe98a2d"
+      }
+    ],
+    "allowebAge": 16,
+    "subscribe": "622f21b8b8206bdb1a41a24d",
+    "view": 10
+  }
+]

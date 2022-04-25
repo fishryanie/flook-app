@@ -3,7 +3,13 @@
     "content": "",
     "UserId": "",
     "movieId": "",
+    "bookId": "",
     "rating":9,
+    "reply": [
+      {"idCommentChild": ""},
+      {"idCommentChild": ""},
+      {"idCommentChild": ""}
+    ],
     "like": [
       { "userId": "" },
       { "userId": "" },
@@ -19,7 +25,13 @@
     "content": "",
     "UserId": "",
     "movieId": "",
+    "bookId": "",
     "rating":9,
+    "reply": [
+      {"idCommentChild": ""},
+      {"idCommentChild": ""},
+      {"idCommentChild": ""}
+    ],
     "like": [
       { "userId": "" },
       { "userId": "" },
@@ -31,4 +43,5 @@
       { "userId": "" }
     ]
   }
+  
 ]
