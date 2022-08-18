@@ -7,7 +7,7 @@ Hoàng Anh Tú: tuhoang.121299@gmail.com
 Phan Hồng Quân: qphanquan1998@gmail.com
 Trần Phước Sanh: phuocsanhtps@gmail.com
 Huỳnh Tấn Thành: ysaysa0123@gmail.com
-Lê Cao Anh Kiệt: Anhkietle90@gmail.com
+Đặng Hoàng Huy: huydh94@gmail.com
 
 
 
@@ -32,7 +32,7 @@ password: 2171998Ryanphan
 
 
 
-Link deploy web: http://flexmovie.surge.sh/
-Link deploy webServer: ...
+Link deploy web: 
+Link deploy Server: https://flook-app.herokuapp.com/
 sdk - android app: ...
 
