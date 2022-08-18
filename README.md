@@ -86,7 +86,7 @@ Nodejs and Expo
 ### Installation
 * Clone repo :arrow_down:
   ```javascript
-  git clone https://github.com/Ryanie217/Flex-App.git
+  git clone https://github.com/fishryanie/flook-app.git
   ```
 
 * **Start Server**
