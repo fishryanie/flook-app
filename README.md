@@ -141,7 +141,7 @@ Project Link: [https://github.com/fishryanie/flook-app.git](https://github.com/f
 
 ## 📝 License
 
-Copyright © 2020 [Ryan Phan](https://github.com/Ryanie217).<br />
+Copyright © 2022 [Ryan Phan](https://github.com/Ryanie217).<br />
 ---
 _This README was generated with ❤️ by [Ryan Phan](https://github.com/Ryanie217)_
 
