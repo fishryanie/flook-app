@@ -123,7 +123,7 @@ Nodejs and Expo
 ## :phone: Contact  
 Phan Hồng Quân: [Email - qphanquan1998@gmail.com](qphanquan1998@gmail.com) :email:
 
-Project Link: [https://github.com/Ryanie217/Flex-App.git](https://github.com/Ryanie217/Flex-App.git)
+Project Link: [https://github.com/fishryanie/flook-app.git](https://github.com/fishryanie/flook-app.git)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
