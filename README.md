@@ -43,24 +43,23 @@
 
 
 <!-- ABOUT PROJECT -->
-## About The Project
+## About project
 
-### Description
-Due to the increasing demand for studying as well as finding jobs online
-So the FAA was born.
-FAA solves the problem of bookcase space, home income, self-marketing, learning and entertainment
-FAA is an application about reading manga, and reading books, in addition to the user can read by themselves, can use the audio function to listen to books, and some rights to earn income.
-App can collect money and can pay users
-There will be 2 types of users that are Voicers, and Authors who can make money from the app
-To become a voiceover, the user must register an account, then through the voice test available on the app, the admin will change the permissions of that account to a voiceover. After reaching the corresponding KPI, you will receive Coins on the app. These coins can be used for transactions on the app or can be exchanged for phone cards.
-As for the author, after passing the test, he can sell books, write books, and receive gifts from fans, the author can collect money from selling books as well as exchange gifts from fans into Xu,
-Finally, about the collection of money from the app, the app will collect money based on the number of users who upgrade to a premium account to be able to view copyrighted books, author's book sales commission, and the amount of gifts fans buy for gifts. for the author
+### Introducing Flook's reading social network
+• Comics attract all ages, not only children, teenagers but also adults, because comics with very vivid and eye-catching drawings arouse the curiosity and imagination of readers.
+
+• In particular, some series have a large fan community, most of which are young people. This group of fans often read stories on a separate comic website, then go to forum websites and fanpages on social networks to discuss their favorite series together.
+
+• However, the problem is that, story reading websites often lack interactive functions, or only include a simple chat tool, which has not yet created a strong community connection. Meanwhile, highly interactive fanpages and forums often do not include reading tools.
+
+• Recognizing the above problem, along with grasping the development trend of the 4.0 era, Flex team decided to build the Flook reading social network. This is a place where people can both read stories and discuss and interact with others, including fans and authors of the series. In particular, users can also satisfy their passion for composing and become content creators for Flook.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- Built With -->
-## Built With
+## Công nghệ sử dụng
 * [Node.js](https://nodejs.org/)
 * [Mongodb](https://www.mongodb.com/)
 * [React.js](https://reactjs.org/)
@@ -91,29 +90,29 @@ Nodejs and Expo
 
 * **Start Server**
 
-  :one: Go to mobile folder `cd Server` 
+  :one: Go to repository server `cd flook-server-app` 
 
-  :two: Install `yarn`
+  :two: Install `yarn` or `npm install`
 
-  :three: Run `yarn start`
+  :three: Run `yarn start` or `npm start`
 
 
 * **Start Mobile App**  :iphone:
 
-  :one: Go to mobile folder `cd Mobile` 
+  :one: Go to repository mobile `cd flook-mobile-app` 
 
-  :two: Install `yarn`
+  :two: Install `yarn` or `npm install`
 
-  :three: Run `yarn start`
+  :three: Run `yarn start` or  `npm start`
 
 
 * **Start Website App**  :globe_with_meridians:
 
-  :one: Go to mobile folder `cd Website` 
+  :one: Go to repository website `cd flook-website-app` 
 
-  :two: Install `yarn`
+  :two: Install `yarn` or `npm install`
 
-  :three: Run `yarn start`
+  :three: Run `yarn start` or  `npm start`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
