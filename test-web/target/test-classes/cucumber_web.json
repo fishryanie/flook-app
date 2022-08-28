@@ -1,0 +1,74 @@
+[
+	{
+		"username": "standard_user",
+		"password": "secret_sauce",
+		"id": "item_4_title_link",
+		"firstName": "Huy",
+		"lastName": "Dang",
+		"postCode": "70000",
+		"end":"finish"
+	},
+	{
+		"username": "standard_user",
+		"password": "secret_sauce",
+		"id": "item_0_title_link",
+		"firstName": "Long",
+		"lastName": "Nguyen",
+		"postCode": "70000",
+		"end":"finish"
+	},
+	{
+		"username": "standard_user",
+		"password": "secret_sauce",
+		"id": "item_1_title_link",
+		"firstName": "Ha",
+		"lastName": "Le",
+		"postCode": "70000",
+		"end":"finish"
+	},
+	{
+		"username": "standard_user",
+		"password": "secret_sauce",
+		"id": "item_5_title_link",
+		"firstName": "Dang",
+		"lastName": "Minh",
+		"postCode": "70000",
+		"end":"cancel"
+	},
+	{
+		"username": "standard_user",
+		"password": "secret_sauce",
+		"id": "item_2_title_link",
+		"firstName": "Hai",
+		"lastName": "Ly",
+		"postCode": "70000",
+		"end":"cancel"
+	},
+	{
+		"username": "locked_out_user",
+		"password": "secret_sauce",
+		"id": "item_4_title_link",
+		"firstName": "Huy",
+		"lastName": "Dang",
+		"postCode": "70000",
+		"end":"finish"
+	},
+	{
+		"username": "problem_user",
+		"password": "secret_sauce",
+		"id": "item_4_title_link",
+		"firstName": "Huy",
+		"lastName": "Dang",
+		"postCode": "70000",
+		"end":"finish"
+	},
+	{
+		"username": "performance_glitch_user",
+		"password": "secret_sauce",
+		"id": "item_4_title_link",
+		"firstName": "Huy",
+		"lastName": "Dang",
+		"postCode": "70000",
+		"end":"finish"
+	}
+]
